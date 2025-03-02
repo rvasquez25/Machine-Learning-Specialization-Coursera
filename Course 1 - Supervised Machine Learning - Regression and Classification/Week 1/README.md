@@ -1,0 +1,11 @@
+# Week 1
+    - Supervised vs. Unsupervised Machine Learning
+        - [Lab: Python and Jupyter Notebooks]()
+    - [Practice Quiz: Supervised vs unspervised learning]()
+    - Regression Model
+        - [Optional lab: Model representation]()
+        - [Optional lab: Cost function]()
+    - [Practice Quiz: Regression]()
+    - [Train the model with gradient descent]()
+        - [Optional lab: Gradient descent]()
+    - [Practice Quiz: Train the model with gradient descent]()
