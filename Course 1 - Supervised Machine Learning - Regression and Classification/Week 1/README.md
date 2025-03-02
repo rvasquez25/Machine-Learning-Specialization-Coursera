@@ -1,4 +1,5 @@
 # Week 1
+<>
     - Supervised vs. Unsupervised Machine Learning
         - [Lab: Python and Jupyter Notebooks](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
     - [Practice Quiz: Supervised vs unspervised learning](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/quizzes/practicequizsupervisedvsunsupervisedlearning.png)
