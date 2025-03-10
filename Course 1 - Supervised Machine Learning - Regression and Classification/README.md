@@ -24,4 +24,4 @@
 - [Practice quiz: Gradient descent in practice](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/quizzes/practicequizgradientdescentinpractice.png)
 ### Week 2 practice lab
 - [Linear regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/practicelab/C1_W2_Linear_Regression.ipynb)
-## [Week 3]()
+## [Week 3](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/tree/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203)
