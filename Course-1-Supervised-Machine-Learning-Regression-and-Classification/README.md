@@ -1,6 +1,6 @@
 # Supervised Machine Learning : Regression and Classification
 
-## [Week 1](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/tree/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201)
+## [Week 1](./Week1/)
 ### Supervised vs. Unsupervised Machine Learning
 - [Lab: Python and Jupyter Notebooks](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
 - [Practice Quiz: Supervised vs unspervised learning](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/quizzes/practicequizsupervisedvsunsupervisedlearning.png)
@@ -12,7 +12,7 @@
 - [Optional lab: Gradient descent](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
 - [Practice Quiz: Train the model with gradient descent](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/quizzes/practicequiztrainthemodelwithgradientdescent.png)
 
-## [Week 2](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/tree/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202)
+## [Week 2](./Week2/)
 ### Multiple Linear Regression
 - [Optional Lab: Python, NumPy and vectorization](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
 - [Optional Lab: Multiple Linear Regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
@@ -24,7 +24,7 @@
 - [Practice quiz: Gradient descent in practice](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/quizzes/practicequizgradientdescentinpractice.png)
 ### Week 2 practice lab
 - [Linear regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/practicelab/C1_W2_Linear_Regression.ipynb)
-## [Week 3](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/tree/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203)
+## [Week 3](./Week3/)
 ### Classification with logistic regression
 - [Optional Lab: Classification](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab01_Classification_Soln.ipynb)
 - [Optional Lab: Sigmoid function and logistic regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
