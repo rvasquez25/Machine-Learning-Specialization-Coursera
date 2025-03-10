@@ -10,7 +10,7 @@
 ### Gradient decent for logistic regression
 - [Optional lab: Gradient descent for logistic regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
 - [Optional lab: Logistic regression with scikit-learn](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
-- [Practice quiz: Gradient descent for logistic regression]()
+- [Practice quiz: Gradient descent for logistic regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/quizzes/practicequizgradientdescentforlogisticregression.png)
 ### The problem of overfitting
 - [Optional lab: Overfitting](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab08_Overfitting_Soln.ipynb)
 - [Optional lab: Regularization](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek03/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1_W3_Lab09_Regularization_Soln.ipynb)
