@@ -12,6 +12,6 @@
 - [Optional lab: Gradient descent](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
 - [Practice Quiz: Train the model with gradient descent](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek01/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/quizzes/practicequiztrainthemodelwithgradientdescent.png)
 
-## [Week 2]()
+## [Week 2](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/tree/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202)
 
 ## [Week 3]()
