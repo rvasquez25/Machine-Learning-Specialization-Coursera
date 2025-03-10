@@ -8,4 +8,4 @@
 - [Optional lab: Linear regression with scikit-learn](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
 - [Practice quiz: Gradient descent in practice](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/quizzes/practicequizgradientdescentinpractice.png)
 ### Week 2 practice lab
-- [Linear regression]()
+- [Linear regression](https://github.com/rvasquez25/Machine-Learning-Specialization-Coursera/blob/ReleaseWeek02/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/practicelab/C1_W2_Linear_Regression.ipynb)
